@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #383838;
+    height: 60px;
+}
+body{
+    margin: 0;
+    background-image: url('../images/bgimage1.png');
+    background-size: cover;
+    background-color: gray;
+    background-blend-mode: multiply;
+}
+.link a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
